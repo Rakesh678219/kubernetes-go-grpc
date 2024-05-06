@@ -1,4 +1,4 @@
-module github.com/Rakesh678219/kubernetes-go-grpc
+module github.com/shuza/kubernetes-go-grpc
 
 go 1.12
 
